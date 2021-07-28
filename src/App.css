@@ -8,11 +8,18 @@
 .navegacion{
     
     color:cornsilk;
+    width: 700px;
+    margin-left: -30px;
+    text-align: center;
     
-    
+}
+li{
+    list-style: none;
+    border: solid coral;
 }
 ul li::marker{
    color: brown;
+   
   }
 .App
 {
