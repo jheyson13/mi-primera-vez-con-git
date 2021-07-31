@@ -1,0 +1,8 @@
+body
+{   background-image: radial-gradient(circle at 107.92% 90.56%, #ff2eb3 0, #ff2ab8 10%, #ff28ba 20%, #e327b7 30%, #c025af 40%, #9b22a3 50%, #761e94 60%, #551c87 70%, #34197a 80%, #05186f 90%, #001665 100%);
+ 
+    max-width: 100%;
+    min-width: 70%;
+     column-width: 1;
+
+}
